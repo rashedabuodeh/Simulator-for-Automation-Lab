@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Basic
+  - panel
+  - Canvas
+  - timers
+  - newrungbutton
+  - newrung
+  - Timers & Counters
+  - Bit
+  - Compare
+  - Math
+  - RungContainer
+  - Panel out
+  - rung
+  - parallel_instr.
+  - Sensor1
+  - Sensor2
+  - Input_Panel
+  - XIC
+  - XIO
+  - OOR
+  - OR
+  - XIC1TXT
+  - newobj
+  - Input_Panel
+  - XIC
+  - XIO
+  - OOR
+  - OR
+  - simulate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
