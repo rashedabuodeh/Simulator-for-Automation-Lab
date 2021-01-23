@@ -242,8 +242,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 486e5cbc3ee69f744a3ee222e00b4b78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Light1: {fileID: 0}
-  Light2: {fileID: 0}
+  Light1: {fileID: 2038091321}
+  Light2: {fileID: 457235778}
 --- !u!4 &1113266125 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4761835941426420852, guid: d133aac9b056c0741b5e89d976d4009a,
@@ -727,6 +727,26 @@ PrefabInstance:
         type: 3}
       propertyPath: movementSpeed
       value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016950551402288096, guid: d133aac9b056c0741b5e89d976d4009a,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.9435871
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016950551402288096, guid: d133aac9b056c0741b5e89d976d4009a,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.9999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016950551402288096, guid: d133aac9b056c0741b5e89d976d4009a,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 0.9999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 5016950551402288096, guid: d133aac9b056c0741b5e89d976d4009a,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.4794904
       objectReference: {fileID: 0}
     - target: {fileID: 5016950552530746202, guid: d133aac9b056c0741b5e89d976d4009a,
         type: 3}
