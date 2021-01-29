@@ -1,4 +1,4 @@
-# PLC_simulator
+# Simulator for Automation Lab
 simulation of PLC on unity based on XEC-DR32H PLC.
 
 Unity and PLC simulator tutorial:
